@@ -8,10 +8,9 @@
 
 **Software QA Engineer** | **Python** | **API Testing** | **Test Automation**
 
-Energetic Junior Software QA Engineer dedicated to upholding the highest product standards. With over 1.5 years of experience in manual and automated testing for mobile and web applications, I'm enthusiastic about diving deeper into automated testing. Well-versed in Agile practices, I have a robust grounding in SQL and am familiar with automation tools like Cypress, Appium, and Postman. Proficient with leading industry tools, including JIRA and ZephyrScale, and acquainted with programming in JavaScript and Python, I'm committed to
-exceeding quality expectations and elevating product performance.
+Energetic Junior Software QA Engineer dedicated to upholding the highest product standards. With over 1.5 years of experience in manual and automated testing for mobile and web applications, I'm enthusiastic about diving deeper into automated testing. Well-versed in Agile practices, I have a robust grounding in SQL and am familiar with automation tools like Cypress, Appium, and Postman. Proficient with leading industry tools, including JIRA and ZephyrScale, and acquainted with programming in JavaScript and Python.
 
-> I am passionate about staying current on industry trends and advancements to deliver high-quality results and drive overall product excellence.
+> I'm committed to exceeding quality expectations and elevating product performance.
 
 ---
 
