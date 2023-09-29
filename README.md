@@ -8,7 +8,8 @@
 
 **Software QA Engineer** | **Python** | **API Testing** | **Test Automation**
 
-A detail-oriented and experienced QA Engineer with a background in manual testing, API testing, and automation using industry-standard tools such as Postman, Selenium, and Appium. Proficient in Python and familiar with SQL, I have worked in Agile environments using tools such as JIRA and ZephyrScale.
+Energetic Junior Software QA Engineer dedicated to upholding the highest product standards. With over 1.5 years of experience in manual and automated testing for mobile and web applications, I'm enthusiastic about diving deeper into automated testing. Well-versed in Agile practices, I have a robust grounding in SQL and am familiar with automation tools like Cypress, Appium, and Postman. Proficient with leading industry tools, including JIRA and ZephyrScale, and acquainted with programming in JavaScript and Python, I'm committed to
+exceeding quality expectations and elevating product performance.
 
 > I am passionate about staying current on industry trends and advancements to deliver high-quality results and drive overall product excellence.
 
