@@ -24,9 +24,9 @@ As a Software QA Engineer at Mobio Interactive, I have been involved in testing 
 
 **Key Accomplishments**
 
-- Conducted manual testing on mobile and web application portals, resulting in the identification and resolution of a significant number of critical bugs.
-- Implemented automation testing on mobile applications using Appium and Pytest, websites using Selenium, and APIs using Python, resulting in increased test coverage and reduced manual testing efforts.
-- Managed and executed test plans and cases using Confluence and ZephyrScale, integrated ZephyrScale and JIRA for tracking and reporting bugs, resulting in improved product quality and a reduction of defects found in production through effective test management.
+- Conducted manual testing on mobile and web application portals, resulting in the identification and resolution of more than 595 critical bugs in one year.
+- Implemented automation testing on some parts of the mobile application using Appium and Pytest, websites using Selenium, and API's using Python, resulting in increased test coverage and reduced manual testing efforts.
+- Managed and executed test plans and more than 1200 test cases using Confluence and ZephyrScale, integrated ZephyrScale and JIRA for tracking and reporting bugs, resulting in improved product quality and a reduction of defects found in production through effective test management.
 
 ### DROPP Technologies — Software QA Engineer Intern
 _Feb 2022 - Apr 2022 (3 months)_\
